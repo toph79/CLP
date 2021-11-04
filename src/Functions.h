@@ -8,6 +8,6 @@
 
 #define INT_FUNCTION(funcName) int funcName()
 #define VOID_FUNCTION(funcName) void funcName()
-#define STRING_FUNCTION(funcName) string funcName()
+#define STRING_FUNCTION(funcName) std::string funcName()
 #define CHAR_FUNCTION(funcName) char funcName()
 #define FLOAT_FUNCTION(funcName) float funcName()
