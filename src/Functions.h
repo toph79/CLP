@@ -11,3 +11,7 @@
 #define STRING_FUNCTION(funcName) std::string funcName()
 #define CHAR_FUNCTION(funcName) char funcName()
 #define FLOAT_FUNCTION(funcName) float funcName()
+
+// Inheritance
+
+#define INHERIT(classToInherit) : public classToInherit
