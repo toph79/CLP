@@ -2,23 +2,28 @@
 
 // Allows for Dynamic Creation of functions in your programs
 
-#define PUBLIC_FUNCTION(funcName, returnType) public returnType funcName()
+#define PUBLIC_FUNCTION(funcName, returnType) public returnType funcName
+
+// Function Calls
+
+#define CALL_FUNCTION(funcToCall) funcToCall
+
 
 // Return Types
 
-#define INT_FUNCTION(funcName) static int funcName()
-#define VOID_FUNCTION(funcName) static void funcName()
-#define STRING_FUNCTION(funcName) static std::string funcName()
-#define CHAR_FUNCTION(funcName) static char funcName()
-#define FLOAT_FUNCTION(funcName) static float funcName()
+#define INT_FUNCTION(funcName) static int funcName
+#define VOID_FUNCTION(funcName) static void funcName
+#define STRING_FUNCTION(funcName) static std::string funcName
+#define CHAR_FUNCTION(funcName) static char funcName
+#define FLOAT_FUNCTION(funcName) static float funcName
 
 // Virtual Functions
 
-#define VIRTUAL_INT_FUNCTION(funcName) virtual int funcName()
-#define VIRTUAL_VOID_FUNCTION(funcName) virtual void funcName()
-#define VIRTUAL_STRING_FUNCTION(funcName) virtual std::string funcName()
-#define VIRTUAL_CHAR_FUNCTION(funcName) virtual char funcName()
-#define VIRTUAL_FLOAT_FUNCTION(funcName) virtual float funcName()
+#define VIRTUAL_INT_FUNCTION(funcName) virtual int funcName
+#define VIRTUAL_VOID_FUNCTION(funcName) virtual void funcName
+#define VIRTUAL_STRING_FUNCTION(funcName) virtual std::string funcName
+#define VIRTUAL_CHAR_FUNCTION(funcName) virtual char funcName
+#define VIRTUAL_FLOAT_FUNCTION(funcName) virtual float funcName
 
 // Dead Functions
 

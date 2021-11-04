@@ -18,3 +18,4 @@
 #define TILDE ~
 #define APOS `
 #define COLON :
+#define EQUAL = 
