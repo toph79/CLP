@@ -3,7 +3,7 @@
 // Contains all Special Characters Ex. !
 
 #define EXCLA !
-#define QUESTIOn ?
+#define QUESTION ?
 #define LESS_THAN <
 #define GREATER_THAN >
 #define SLASH /
