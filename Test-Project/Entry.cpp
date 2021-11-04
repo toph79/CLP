@@ -1,9 +1,4 @@
-#include <iostream>
-#include "Main.h"
-#include "OC.h"
-#include "iostream.h"
-#include "variables.h"
-#include "Cosmo/C_Special.h"
+#include <iostream
 
 INT_MAIN
 OPEN_CURLY
