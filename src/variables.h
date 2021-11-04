@@ -7,3 +7,4 @@
 #define CHAR(varName) char charName
 #define BOOLEAN(varName) bool varName
 #define FLOAT(varName) float varName
+#define SEMI_COLON ;
