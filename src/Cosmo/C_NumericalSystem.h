@@ -1,6 +1,6 @@
 #pragma once
 
-The Numerical System gives you access to all numbers 1-10
+// The Numerical System gives you access to all numbers 1-10
 
 #define NUM_1 1
 #define NUM_2 2
