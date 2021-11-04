@@ -1,5 +1,0 @@
-#include "../src/Main.h"
-#include "../src/OC.h"
-#include "../src/iostream.h"
-#include "../src/variables.h"
-#include "../src/Cosmo/C_Special.h"

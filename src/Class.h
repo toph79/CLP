@@ -6,3 +6,11 @@
 #define PUBLIC public:
 #define PRIVATE private:
 #define PROTECTED protected:
+
+// Inheritance
+
+// Public Inherit
+#define INHERIT(classToInherit) : public classToInherit
+
+//Private Inherit
+#define INHERIT_PRIVATE(classToInherit) : classToInherit
