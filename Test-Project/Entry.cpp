@@ -1,4 +1,5 @@
-#include <iostream
+#include <iostream>
+#include "Entry.h"
 
 INT_MAIN
 OPEN_CURLY
