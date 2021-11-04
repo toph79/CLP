@@ -17,3 +17,4 @@
 #define ASTRIC *
 #define TILDE ~
 #define APOS `
+#define COLON :
