@@ -11,5 +11,6 @@
 #include "OC.h"
 #include "Return.h"
 #include "Cosmo/C_Alphabet.h"
+#include "IF.h"
 #include "Cosmo/C_NumericalSystem.h"
 #include "Cosmo/C_Special.h"
