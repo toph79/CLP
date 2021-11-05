@@ -7,6 +7,7 @@
 // Function Calls
 
 #define CALL_FUNCTION(funcToCall) funcToCall
+#define CALLFUNC_NOARG(funcToCall) funcToCall();
 
 // Dynamic Function
 
