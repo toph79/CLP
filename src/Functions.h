@@ -8,6 +8,15 @@
 
 #define CALL_FUNCTION(funcToCall) funcToCall
 
+// Dynamic Function
+
+// The Dynamic Function is for letting you set-up a function that does not have a
+// Predefined Visibility, SOV or Return type.
+
+#define DYNAMIC_FUNCTION(visibility, sov, returnType, funcName)  visiblity sov returnType funcName
+
+// Using DYNAMIC_FUNCTION in it's current state is not reccomended
+
 
 // Return Types
 

@@ -5,6 +5,7 @@
 #include "Class.h"
 #include "Functions.h"
 #include "iostream.h"
+#include "variables.h"
 #include "Main.h"
 #include "Objects.h"
 #include "OC.h"
