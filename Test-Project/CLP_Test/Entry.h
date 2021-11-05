@@ -2,6 +2,9 @@
 
 // Including Tutorial
 
+// Define Function
+testingIfStatements();
+
 // -------------------------------------------------------------------------------------------
 // You can choose to load all modules at once, or load them individually
 // -------------------------------------------------------------------------------------------
