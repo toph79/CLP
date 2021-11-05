@@ -1,5 +1,5 @@
 // Include this file for using IF Statements
 
-#define IF if
+#define CLP_IF if
 
 // it's just if but all caps lol
