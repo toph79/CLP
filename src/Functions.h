@@ -15,7 +15,7 @@
 
 #define DYNAMIC_FUNCTION(visibility, sov, returnType, funcName)  visiblity sov returnType funcName
 
-// Using DYNAMIC_FUNCTION in it's current state is not reccomended
+// Using DYNAMIC_FUNCTION in it's current state is not reccomended.
 
 
 // Return Types
