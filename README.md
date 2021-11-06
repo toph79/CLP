@@ -1,4 +1,4 @@
-# DISCLAIMER: IT IS SO NEXT GEN YOUR PC MIGHT CRASH
+## Disclaimer : this is a joke, don't use it
 
 # CLP
 Caps-Lock-Programming is a Macro Based CPP Framework
