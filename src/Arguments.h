@@ -5,4 +5,4 @@
 #define NOT_EQUAL !=
 #define INCREMENT(varToIncrement) varToIncrement++
 #define DECREMENT(varToDecrement) varToDecrement--
-#define AND &&
+#define AND_ARGUMENT &&
